@@ -13,8 +13,9 @@ Jenkin setup
 	- Create Job on Jenkin to ready to deploy CKAN on that server
 
 
-Infra Setup:  Using Vagrant - Create Server with Docker installed running Jenkins
-Automate Environment: Using Ansible Jenkin Plugin, Run Ansible Playbook to
+# Infra Setup:  
+- Using Vagrant - Create Server with Docker installed running Jenkins
+- Automate Environment: Using Ansible Jenkin Plugin, Run Ansible Playbook to
 Provision server with Ubuntu 16.04 LTS and with latest packages
 Install Docker
 Install CKAN using Docker Image
