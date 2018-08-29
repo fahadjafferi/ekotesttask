@@ -14,11 +14,11 @@ Jenkin setup
 
 
 # Infra Setup:  
-- Using Vagrant - Create Server with Docker installed running Jenkins
+- Jenkins CI: Using Vagrant Create Server with Docker installed running Jenkins.
 - Automate Environment: Using Ansible Jenkin Plugin, Run Ansible Playbook to
-Provision server with Ubuntu 16.04 LTS and with latest packages
-Install Docker
-Install CKAN using Docker Image
+	- Provision server with Ubuntu 16.04 LTS and with latest packages
+	- Install Docker
+ 	- Install CKAN using Docker Image
 
 The tools used to create the test task are:
 Vagrant to create the infrastructure for this lab.
