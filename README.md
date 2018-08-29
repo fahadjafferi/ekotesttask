@@ -29,3 +29,4 @@ And finally, Ansible to create all infrastructure for this lab and the to provis
 
 # Diagram
 
+![picture](ekotesttask/EKO Test Task.jpeg)
