@@ -21,7 +21,8 @@ Jenkin setup
  	- Install CKAN using Docker Image
 
 The tools used to create the test task are:
-Vagrant to create the infrastructure for this lab.
+Vagrant as Infrastructure as Code to provision the infrastructure for this lab.
+Virtual Box for virtualization software.
 GIT for source code management and control
 Jenkins to orchestrate the CI/CD pipeline flow
 And finally, Ansible to create all infrastructure for this lab and the to provision CKAN.
